@@ -1,0 +1,31 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+	background-color: black;
+	height: 900px;
+}
+#container {
+	width: 960px;
+	height: 400px; 
+	padding: 10px;
+ 	margin: 0px auto;
+	background: linear-gradient(lightgray,lightgray, gray);
+}
+#container h1, p {
+	text-align: center;
+}
+
+#container a {
+	text-decoration: none;
+	color: white;
+	position: fixed;
+	background: linear-gradient( rgba(180,180,180,.7), rgba(0,80,190, .7), rgba(180,180,180,.7)  );
+	padding: 4px 12px;
+	border-radius: 15px;
+}
+#container a:hover {
+	background: linear-gradient( lightblue, rgba(0,40,230,.5), blue );
+}
