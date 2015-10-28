@@ -1,0 +1,13 @@
+Hello, my name is Jose Chery. 
+
+This file lists the steps taken before/after creating my first repository. 
+
+1. Created the repository on GitHub giving it the name of 'basic_repo' with a description advising that this was my first repository. 
+2. Created a local directory on my computer. 
+3. Added an HTML & CSS file to this directory. 
+4. Initiated a repository in the directory. 
+5. Added a remote link from GitHub to my current directory. 
+6. Committed original webpage copy to local repository and pushed it to GitHub. 
+7. Edited HTML and CSS file. 
+8. Commited changes to local repository. 
+9. pushed updated changes to GitHub repository. 
